@@ -1,0 +1,40 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #61677a;
+}
+
+.navbar {
+  background-color: #272829;
+}
+
+.jumbotron {
+  top: 0;
+  background-image: url(../assets/pawel-chu-ULh0i2txBCY-unsplash.jpg);
+  background-size: cover;
+  height: 100vh;
+  color: white;
+}
+
+.jumbotron p {
+  font-size: 1.1em;
+}
+
+.jumbotron-content {
+  width: 50%;
+}
+
+.bootcamp-class {
+  padding: 50px;
+  color: white;
+}
+
+.card-img-top {
+  object-fit: contain;
+}
+
+.form {
+  padding: 50px;
+}
